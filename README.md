@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**SunnyCrypto/SunnyCrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm a frontend engineer who is building design system and exchange applications, I enjoy working with include ReactJS, VueJS, NodeJS and TypeScript.
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=romfrancois&title=Commit,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=SunnyCrypto)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SunnyCrypto&hide=contribs,prs&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyCrypto" />
+</a>
